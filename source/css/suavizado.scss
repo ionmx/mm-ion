@@ -1,0 +1,14 @@
+header.ion-header {
+  padding: 10px;
+  background: #000;
+  nav {
+    text-align: center;
+    margin: 0 auto;
+    .ion-nav-item {
+      padding: 0 20px;
+      font-family: 'Varela Round', helvetica, sans-serif;
+      font-size: 16px;
+      color: #fff;
+    }
+  }
+}
